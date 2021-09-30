@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maxyustus
-- 👀 I’m interested in programming(mostly web(flask/django), databases, data science) 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in working with data(databases, data science, python) 
 - 👀 I’m looking to collaborate on any open source projects. Feel free to invite me!
 - 📫 How to reach me maxoyustus@gmail.com
 
